@@ -1,43 +1,4 @@
 
-# # list=[10,20,30,40]
-# # list[0]
-
-# # list[-1]
-
-# # list[1:3]
-
-
-# # for i in list:
-# #  print(i)
-
-
-# s = range(5,10,2)
-# for i in s :
-#  print(i) 
-
-
-
-# a={1,'s',54,'surname',99,10.5,'a',4+2j}
-
-# a.add (2+5j)
-# a.remove (1)
-
-# for i in a :
-#  print(i) 
-
-# s={101:'durga',103:'shiva'}
-# s[103]='sunny' 
-# for i in s:
-#      print(s)
-
-
-# s="durga\nsoftware"
-# print(s) 
-
-# s="durga\tsoftware"
-# print(s) 
-
-
 import random
 
 def guessing_game():
